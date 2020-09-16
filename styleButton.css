@@ -3,6 +3,7 @@ body{
 	padding: 0;
 	background: #2d3436;
 }
+/* display button in middle*/
 .middle{
 	position: absolute;
     top: 50%;                 
